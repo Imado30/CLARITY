@@ -25,6 +25,14 @@
 
 </div>
 
+<p align="center">
+  <a href="docs/media/clarity-demo.mp4">
+    <img src="docs/media/clarity-demo.gif" width="720" alt="CLARITY demo with real interview answers from the dataset, the evasion taxonomy, the XLNet model and the Macro F1 results">
+  </a>
+  <br>
+  <sub>Click the preview for the video in full quality (MP4)</sub>
+</p>
+
 ---
 
 ## 🔍 Overview
